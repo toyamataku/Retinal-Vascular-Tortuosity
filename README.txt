@@ -65,12 +65,6 @@ These files are compiled for **Python 3.12 on Windows 64-bit**.
 
 These versions have been tested and are recommended.
 
-## License
-
-- The compiled binaries and script files in this repository follow the license specified within this project (e.g. MIT, BSD, etc.).
-- Various open-source libraries (e.g., Cython, NumPy, etc.) are used under their respective licenses.
-- Check the `LICENSE` file and official websites for each third-party library for more details.
-
 ## Disclaimer
 
 - This software is provided **"as is,"** without any express or implied warranties.
@@ -107,3 +101,9 @@ These versions have been tested and are recommended.
      - The column **“Total Meandering Angle at All Bends”** contains the sum of all bend angles measured.
 
 These outputs provide a quantitative measure of the vessel’s tortuosity (snake-like meandering) and allow for assessment of how the vessel intersects the optic disc’s circular boundaries.
+
+## License
+MIT License for non-commercial academic use (see LICENSE).
+Commercial use requires a separate agreement.
+
+Contact: toyama.ophthalmol@gmail.com
